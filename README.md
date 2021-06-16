@@ -1,2 +1,2 @@
 # go-interface
-Go: The Complete Developer's Guide (Golang) **SECTION 6**
+Go: The Complete Developer's Guide (Golang)**SECTION 6**
